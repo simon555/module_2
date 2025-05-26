@@ -1,0 +1,7 @@
+openai>=1.0.0
+pandas
+python-dotenv
+matplotlib
+ipython-sql
+pydantic
+openai-agents
