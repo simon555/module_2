@@ -1,3 +1,8 @@
+Google Drive
+https://drive.google.com/drive/folders/1U_W1otDcCmgqjGMe4oZXko8cIJB80tSq?usp=sharing
+
+
+
 # 7 Questions : Construire un agent Text-to-SQL avec GPT-4.1
 
 Ce projet vous guide pour construire un agent capable de transformer des questions en langage naturel en requêtes SQL, d'exécuter ces requêtes et de visualiser les résultats.
