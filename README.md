@@ -9,7 +9,7 @@ Ce projet vous guide pour construire un agent capable de transformer des questio
 
 ## Installation rapide
 
-1. **Clonez le dépôt et placez-vous dans le dossier**
+1. **Clonez le repo et placez-vous dans le dossier**
 
 ```bash
 cd /chemin/vers/le/projet
@@ -17,9 +17,16 @@ cd /chemin/vers/le/projet
 
 2. **Créez un environnement virtuel**
 
+**Sur macOS/Linux :**
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
+```
+
+**Sur Windows :**
+```bat
+python -m venv .venv
+.venv\Scripts\activate
 ```
 
 3. **Installez les dépendances**
